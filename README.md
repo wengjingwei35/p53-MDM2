@@ -4,6 +4,8 @@ job_example.lsf: commands used for building up p53-MDM2 system and run MD simula
 
 mdp_files: MD parameter files 
 
-topol.top: topology file of the p53-MDM2 system
+charmm36-jul2017.ff.tgz: force field files used for Gromacs
 
-sampled_structures: some structures of four major local minima sampled during MD simulation
+topol.top: topology file of the p53-MDM2 complex
+
+sampled_structures: representative structures of four major local minima of the p53-MDM2 complex sampled during MD simulation
