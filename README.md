@@ -1,6 +1,6 @@
 # p53-MDM2
 
-job_example.lsf: commands used for building up p53-MDM2 system and run MD simulation
+job_example.lsf: commands used for building up p53-MDM2 system and running MD simulation
 
 mdp_files: MD parameter files 
 
