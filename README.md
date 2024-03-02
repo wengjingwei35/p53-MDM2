@@ -6,4 +6,4 @@ mdp_files: MD parameter files
 
 topol.top: topology file of the p53-MDM2 system
 
-sampled_structures: sampled structures during MD simulation
+sampled_structures: some structures of four major local minima sampled during MD simulation
